@@ -5,7 +5,7 @@ plugins {
 
 android {
     namespace = "com.ayush.slate"
-    compileSdk = 34
+    compileSdk = 35
 
     defaultConfig {
         applicationId = "com.ayush.slate"
