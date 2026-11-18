@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="watcher_desc">Opens Slate when you press Home. It only notices which app is in front. It never reads what\'s on screen and has no internet access.</string>
+</resources>
